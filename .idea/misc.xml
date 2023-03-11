@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Dorababu Arigi/AndroidStudioProjects/clickListener_recycler/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Dorababu Arigi/AndroidStudioProjects/clickListener_recycler/app/src/main/res/layout/activity_sec.xml" value="0.25" />
+        <entry key="..\:/Users/Dorababu Arigi/AndroidStudioProjects/clickListener_recycler/app/src/main/res/layout/singlecardview.xml" value="0.25" />
         <entry key="..\:/Users/Dorababu Arigi/AndroidStudioProjects/recycler_card_view/app/src/main/res/drawable/ic_baseline_3g_mobiledata_24.xml" value="0.182" />
         <entry key="..\:/Users/Dorababu Arigi/AndroidStudioProjects/recycler_card_view/app/src/main/res/drawable/ic_baseline_child_friendly_24.xml" value="0.2365" />
         <entry key="..\:/Users/Dorababu Arigi/AndroidStudioProjects/recycler_card_view/app/src/main/res/layout/activity_main.xml" value="0.2359375" />

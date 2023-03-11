@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         list=enque(list);
         view=(RecyclerView) findViewById(R.id.recview);
         view.setLayoutManager(new GridLayoutManager(this,2));
-        view.setAdapter(new myAdapter(list));
+        view.setAdapter(new myAdapter(list,getApplicationContext()));
     }
     public ArrayList<Model> enque(ArrayList<Model> list){
         Model temp=new Model();
